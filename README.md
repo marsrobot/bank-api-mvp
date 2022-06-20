@@ -322,5 +322,5 @@ Transaction: 7
 ```
 
 ## Caveats
-- This is a four-hour homework project. Do not use this in production.
+- This is a four-hour homework project to build bank API. Do not use this in production.
 - All user and account information are emptied out. You will need to set them up properly before testing.
