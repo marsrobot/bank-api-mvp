@@ -1,0 +1,3 @@
+export CONTAINER_NAME=mysql-server
+export MYSQL_ROOT_PASSWORD=
+export MYSQL_NORMALUSER_PASSWORD=

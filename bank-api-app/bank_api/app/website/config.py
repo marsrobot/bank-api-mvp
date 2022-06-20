@@ -1,0 +1,21 @@
+class Config:
+    JWT_SECRET_KEY = '***'
+    JWT_ACCESS_TOKEN_EXPIRES_SECONDS = 360
+    JWT_REFRESH_TOKEN_EXPIRES_DAYS = 30
+
+    DATABASE_SERVER = 'MYSERVERIP'  # Database server IP
+    DATABASE_NAME = 'newbank'
+    DATABASE_PORT = 3306
+    DATABASE_USER = '***'
+    DATABASE_PASSWORD = '***'
+
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
+
+    UNIT_SERVER = 'https://api.s.unit.sh'
+    UNIT_READ_TOKEN = "***"
+    UNIT_WRITE_TOKEN = "***"
+
+    NEWBANK_SERVER = '***'  # Bank API server IP
+    NEWBANK_API_PORT = 8080
+
+    BCRYPT_LOG_ROUNDS = 13
