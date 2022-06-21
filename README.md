@@ -3,7 +3,7 @@
 ## Requirements of a minimal viable product
 
 The project is trying to build a MVP (minimal viable product) for prototyping and the initial market testing of
-a new product: a banking API provided by "NewBank" (a hypothetical bank). This project implements a bank (NewBank)
+a new product: a banking API provided by "NewBank" (a hypothetical bank). This project implements a banking (NewBank)
 API to list debit card transactions.
 
 ### API
